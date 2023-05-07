@@ -1,4 +1,4 @@
-decorator==5.1.1
+pip
 entrypoints==0.4
 fonttools==4.38.0
 gitdb==4.0.10
