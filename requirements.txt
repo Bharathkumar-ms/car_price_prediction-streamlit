@@ -4,3 +4,4 @@ matplotlib
 pickle5
 gunicorn
 flask
+sklearn
