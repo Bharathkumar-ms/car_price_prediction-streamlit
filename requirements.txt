@@ -5,3 +5,4 @@ pickle5
 gunicorn
 flask
 sklearn
+streamlit
