@@ -1,6 +1,7 @@
 pip==23.1.2
 sklearn
 streamlit
+scikit-learn
 numpy
 pandas
 matplotlib
