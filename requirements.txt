@@ -1,9 +1,9 @@
 pip==23.1.2
+sklearn
+streamlit
 numpy
 pandas
 matplotlib
 pickle5
 gunicorn
 flask
-sklearn
-streamlit
