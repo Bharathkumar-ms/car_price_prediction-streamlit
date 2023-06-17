@@ -1,5 +1,5 @@
 pip==23.1.2
-sklearn
+scikit-learn
 streamlit
 scikit-learn
 numpy
