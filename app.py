@@ -4,7 +4,7 @@ import pickle
 
 
 # Loading model
-model = pickle.load(open("Linear_regressor.pkl", "rb"))
+model = pickle.load(open("RF_reg.pkl", "rb"))
 
 
 st.title('Car Price Prediction')
